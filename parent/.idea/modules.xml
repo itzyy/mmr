@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hadoop/src/main/main.iml" filepath="$PROJECT_DIR$/hadoop/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/src/main/main1.iml" filepath="$PROJECT_DIR$/data/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main2.iml" filepath="$PROJECT_DIR$/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm/src/main/main3.iml" filepath="$PROJECT_DIR$/storm/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/src/main/main4.iml" filepath="$PROJECT_DIR$/kafka/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/src/test/test.iml" filepath="$PROJECT_DIR$/data/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/test/test1.iml" filepath="$PROJECT_DIR$/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop/src/test/test2.iml" filepath="$PROJECT_DIR$/hadoop/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/src/test/test3.iml" filepath="$PROJECT_DIR$/kafka/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm/src/test/test4.iml" filepath="$PROJECT_DIR$/storm/src/test/test4.iml" />
+    </modules>
+  </component>
+</project>

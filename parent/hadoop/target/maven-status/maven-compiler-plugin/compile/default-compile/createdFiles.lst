@@ -1,0 +1,7 @@
+cn\crxy\hadoop\mr\AccessLog.class
+cn\crxy\hadoop\mr\AccessLogCleaner$AccessLogMapper.class
+cn\crxy\hadoop\utils\RedisUtils.class
+cn\crxy\hadoop\mr\AccessLogCleaner.class
+cn\crxy\hadoop\App.class
+cn\crxy\hadoop\utils\UserAgentUtil.class
+cn\crxy\hadoop\utils\UserAgent.class
